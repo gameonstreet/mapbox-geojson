@@ -6,7 +6,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 1,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -22,7 +22,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 2,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -38,7 +38,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 3,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -54,7 +54,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 4,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -70,7 +70,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 5,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -86,7 +86,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 6,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -102,7 +102,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 7,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -118,7 +118,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 8,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -134,7 +134,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 9,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -150,7 +150,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 10,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
@@ -166,7 +166,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 11,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
