@@ -1,0 +1,197 @@
+{
+    "type":"FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 1,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.778181,
+                    40.412427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 2,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.791303,
+                    40.395588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 3,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793850,
+                    40.395716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 4,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793462,
+                    40.394425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 5,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.796057,
+                    40.397634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 6,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.795014,
+                    40.399893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 7,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.793715,
+                    40.399110
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 8,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.794584,
+                    40.401184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 9,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.790986,
+                    40.398884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 10,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.792116,
+                    40.401417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 11,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.792051,
+                    40.405614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "water",
+                "id": 12,
+                "status": "OK",
+                "update": "29.06.2021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.788904,
+                    40.398419
+                ]
+            }
+        }    
+    ]
+}
