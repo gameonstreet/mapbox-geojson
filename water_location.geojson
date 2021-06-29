@@ -182,7 +182,7 @@
             "properties": {
                 "marker-symbol": "water",
                 "id": 12,
-                "status": "OK",
+                "status": "✔",
                 "update": "29.06.2021"
             },
             "geometry": {
