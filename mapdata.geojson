@@ -26,7 +26,7 @@
             "type": "Feature",
             "properties": {
                 "marker-symbol": "battery",
-                "title": "Maviş Büfe",
+                "title": "Teknoilk Teknoloji Çözüm Merkezi",
                 "id": "P2",
                 "address": "Zeytinli Mh., Müze Sk., No:2/1A",
                 "city": "Balıkesir",
@@ -40,6 +40,153 @@
                 "coordinates": [
                     27.79291,
                     40.39537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Acar Gıda & Tekel Büfe",
+                "id": "R1",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.78897,
+                    40.39878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Aspava Pinnn",
+                "id": "R2",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.791443,
+                    40.395974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Bayram Abi Fast Food",
+                "id": "R3",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.790850,
+                    40.397274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Caffe La Famoso",
+                "id": "R4",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.788965,
+                    40.396649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Duru's Garden",
+                "id": "R5",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.78852,
+                    40.39771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "E&S Cafe",
+                "id": "R6",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.792911,
+                    40.394852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Eren Motel",
+                "id": "R7",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.78716,
+                    40.40598
                 ]
             }
         },
