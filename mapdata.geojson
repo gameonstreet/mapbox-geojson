@@ -1,28 +1,4 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "marker-symbol": "battery",
-                "title": "Oulard Sanat ve Kafe",
-                "id": "P1",
-                "address": "Halit Paşa Mh., Şehit Halil Sk., Banker Apt., No:1",
-                "city": "Balıkesir",
-                "province": "Erdek",
-                "phone": "[+9] 0 546 507 19 84",
-                "status": "✔",
-                "update": "29.06.2021"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.78901,
-                    40.39831
-                ]
-            }
-        },
-        {
             "type": "Feature",
             "properties": {
                 "marker-symbol": "battery",
