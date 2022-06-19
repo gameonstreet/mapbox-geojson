@@ -193,6 +193,363 @@
         {
             "type": "Feature",
             "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Ezgi Kafe",
+                "id": "R8",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79136,
+                    40.39711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Filika Kokteyl Bar",
+                "id": "R9",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.786800,
+                    40.405869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Halit Paşa İlköğretim Okulu",
+                "id": "R10",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79166,
+                    40.40265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Hoca'nın Yeri",
+                "id": "R11",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.76795,
+                    40.41755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Kekik Kokoreç",
+                "id": "R12",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79143,
+                    40.39667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Kokoreççi Ufuk",
+                "id": "R13",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.791093,
+                    40.397386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Mado",
+                "id": "R14",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.788875,
+                    40.396579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Mercan Market",
+                "id": "R15",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.77846,
+                    40.41343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Nehir Çay Bahçesi",
+                "id": "R16",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79059,
+                    40.39634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "ÖGS Tost",
+                "id": "R17",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79117,
+                    40.39688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Samet Tekel Büfe",
+                "id": "R18",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.790887,
+                    40.397707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Oulard Sanat ve Kafe",
+                "id": "R19",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.78901,
+                    40.39831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Taş Restaurant",
+                "id": "R20",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.796137,
+                    40.388284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Temizel Köftecisi",
+                "id": "R21",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79155,
+                    40.39678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Tolga'nın Mutfağı",
+                "id": "R22",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79147,
+                    40.39648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Torun Pide",
+                "id": "R23",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.79126,
+                    40.39817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "star-yellow",
+                "title": "Uludağ Pide",
+                "id": "R24",
+                "address": "",
+                "city": "Balıkesir",
+                "province": "Erdek",
+                "phone": "",
+                "status": "",
+                "update": ""
+            },    
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.790951,
+                    40.396903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "marker-symbol": "water",
                 "title": "Çeşme / Tap",
                 "id": "S1",
