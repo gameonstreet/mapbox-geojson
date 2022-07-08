@@ -130,7 +130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-yellow",
+                "marker-symbol": "star-blue",
                 "title": "E&S Cafe",
                 "id": "R6",
                 "address": "",
