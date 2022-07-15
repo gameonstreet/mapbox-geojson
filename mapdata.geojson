@@ -130,7 +130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-blue",
+                "marker-symbol": "star-yellow",
                 "title": "E&S Cafe",
                 "id": "R6",
                 "address": "",
@@ -193,7 +193,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-symbol": "star-yellow",
+                "marker-symbol": "star-blue",
                 "title": "Filika Kokteyl Bar",
                 "id": "R9",
                 "address": "",
